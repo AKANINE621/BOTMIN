@@ -1,0 +1,2 @@
+# BOTMIN
+ATTACK
